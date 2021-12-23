@@ -2,8 +2,6 @@
 - 🌱 I’m currently finishing up a Google IT Automation with Python professional certificate
 - 👀 I’m interested biology and machine learning
 - 📫 How to reach me ...
-
-     [Website](https://zachmichael14.github.io/gh_page/)
      
      ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
      
