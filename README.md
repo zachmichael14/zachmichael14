@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zach Seitz
-- 🌱 I’m currently finishing up a Google IT Automation with Python professional certificate.
+- 🌱 I’m currently finishing up a Google IT Automation with Python professional certificate
 - 👀 I’m interested biology and machine learning
 - 📫 How to reach me ...
 
