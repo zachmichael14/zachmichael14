@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zach Seitz
-- 🌱 I’m currently finishing up a Google IT Automation with Python professional certificate
+- 🌱 I’m a computer science graduate student at Southeast Missouri State
 - 👀 I’m interested biotech, machine learning, and pretty much anything else to do with tech.
 - 📫 How to reach me ...
 
