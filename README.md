@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zach Seitz
-- 🌱 I’m a BioMed engineering research tech at Washington University in St. Louis.
+- 🌱 I’m a research software engineer at Washington University in St. Louis.
 - 👀 I’m interested biotech, machine learning, and pretty much anything else to do with tech.
 - 📫 How to reach me ...
 
