@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zach Seitz
 - 🌱 I’m a research software technician at Washington University in St. Louis.
-- 👀 I’m interested biotech, biomedical engineering, and building bespoke software and hardware solutions
+- 👀 I’m interested biotech, biomedical engineering, and building software and hardware solutions
 - 📫 How to reach me ...
 
      [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zachmichael14@gmail.com)
